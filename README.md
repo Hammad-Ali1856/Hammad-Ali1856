@@ -4,7 +4,7 @@
 
 
 
-<h1>💫&nbsp;About Me:</h1>
+<h3>💫&nbsp;About Me:</h3>
 <p>👋 Hi there! I'm Hammad Ali, a passionate Front-End Developer dedicated to building clean, modern, and responsive web interfaces. My journey in web development has allowed me to master HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS, enabling me to transform ideas into seamless digital experiences.💻<br><br>
  🎨 Alongside coding, I have a strong eye for design — using tools like Figma and Canva to create visually appealing layouts that combine creativity with functionality. Every project I craft focuses on user experience, performance, and aesthetics, ensuring each pixel serves a purpose. 🚀 With a growing portfolio and a commitment to continuous learning, I strive to bring innovation, precision, and beauty to every web project I take on. Explore my work to see how I turn design concepts into interactive realities. </p>
 
